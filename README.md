@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on the idea.
+
+Getting my head around: 
+- 🌱 https://mathiasbynens.be/notes/prototypes
+
 <!--
 **danbilokha/danbilokha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
