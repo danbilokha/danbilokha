@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on the idea.
 
 Getting my head around: 
-- 🌱 https://mathiasbynens.be/notes/prototypes
+- 🌱 [JS Engines](https://mathiasbynens.be/notes/prototypes),
+- JS and Web Engineers should know about [js-concepts](https://github.com/leonardomso/33-js-concepts).
 
 <!--
 **danbilokha/danbilokha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
