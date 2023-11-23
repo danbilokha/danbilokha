@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the idea.
+- 🔭 I’m currently working on the Їdlo.
 
 Getting my head around: 
 - 🌱 [JS Engines](https://mathiasbynens.be/notes/prototypes),
